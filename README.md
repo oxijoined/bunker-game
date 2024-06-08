@@ -14,7 +14,7 @@ Bunker Game — это интерактивная игра, которая со�
 
 1. Клонируйте репозиторий:
 ```
-git clone https://github.com/yourusername/bunker-game.git
+git clone https://github.com/oxijoined/bunker-game.git
 cd bunker-game
 ```
 
