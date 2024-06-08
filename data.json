@@ -1,0 +1,129 @@
+[
+    {
+      "id": 1,
+      "name": "Общее вступление",
+      "picture": "https://bunker.economicusgame.com/assets/assets/card/ru/00.png",
+      "voice": "https://bunker.economicusgame.com/assets/assets/audio/ru/00.mp3"
+    },
+    {
+      "id": 2,
+      "name": "Ядерная война",
+      "picture": "https://bunker.economicusgame.com/assets/assets/card/ru/01.png",
+      "voice": "https://bunker.economicusgame.com/assets/assets/audio/ru/01.mp3"
+    },
+    {
+      "id": 3,
+      "name": "Химическая война",
+      "picture": "https://bunker.economicusgame.com/assets/assets/card/ru/02.png",
+      "voice": "https://bunker.economicusgame.com/assets/assets/audio/ru/02.mp3"
+    },
+    {
+      "id": 4,
+      "name": "Метеорит",
+      "picture": "https://bunker.economicusgame.com/assets/assets/card/ru/03.png",
+      "voice": "https://bunker.economicusgame.com/assets/assets/audio/ru/03.mp3"
+    },
+    {
+      "id": 5,
+      "name": "Мутанты",
+      "picture": "https://bunker.economicusgame.com/assets/assets/card/ru/04.png",
+      "voice": "https://bunker.economicusgame.com/assets/assets/audio/ru/04.mp3"
+    },
+    {
+      "id": 6,
+      "name": "Динозавры",
+      "picture": "https://bunker.economicusgame.com/assets/assets/card/ru/05.png",
+      "voice": "https://bunker.economicusgame.com/assets/assets/audio/ru/05.mp3"
+    },
+    {
+      "id": 7,
+      "name": "Супервулканы",
+      "picture": "https://bunker.economicusgame.com/assets/assets/card/ru/06.png",
+      "voice": "https://bunker.economicusgame.com/assets/assets/audio/ru/06.mp3"
+    },
+    {
+      "id": 8,
+      "name": "Пандемия",
+      "picture": "https://bunker.economicusgame.com/assets/assets/card/ru/07.png",
+      "voice": "https://bunker.economicusgame.com/assets/assets/audio/ru/07.mp3"
+    },
+    {
+      "id": 9,
+      "name": "Всемирный потоп",
+      "picture": "https://bunker.economicusgame.com/assets/assets/card/ru/08.png",
+      "voice": "https://bunker.economicusgame.com/assets/assets/audio/ru/08.mp3"
+    },
+    {
+      "id": 10,
+      "name": "Восстание роботов",
+      "picture": "https://bunker.economicusgame.com/assets/assets/card/ru/09.png",
+      "voice": "https://bunker.economicusgame.com/assets/assets/audio/ru/09.mp3"
+    },
+    {
+      "id": 11,
+      "name": "Власть алгоритмов",
+      "picture": "https://bunker.economicusgame.com/assets/assets/card/ru/10.png",
+      "voice": "https://bunker.economicusgame.com/assets/assets/audio/ru/10.mp3"
+    },
+    {
+      "id": 12,
+      "name": "Информационная война",
+      "picture": "https://bunker.economicusgame.com/assets/assets/card/ru/11.png",
+      "voice": "https://bunker.economicusgame.com/assets/assets/audio/ru/11.mp3"
+    },
+    {
+      "id": 13,
+      "name": "Зомби-апокалипсис",
+      "picture": "https://bunker.economicusgame.com/assets/assets/card/ru/12.png",
+      "voice": "https://bunker.economicusgame.com/assets/assets/audio/ru/12.mp3"
+    },
+    {
+      "id": 14,
+      "name": "Потеря эстетики",
+      "picture": "https://bunker.economicusgame.com/assets/assets/card/ru/13.png",
+      "voice": "https://bunker.economicusgame.com/assets/assets/audio/ru/13.mp3"
+    },
+    {
+      "id": 15,
+      "name": "Страдающий Коля",
+      "picture": "https://bunker.economicusgame.com/assets/assets/card/ru/14.png",
+      "voice": "https://bunker.economicusgame.com/assets/assets/audio/ru/14.mp3"
+    },
+    {
+      "id": 16,
+      "name": "Зеленый эффект",
+      "picture": "https://bunker.economicusgame.com/assets/assets/card/ru/15.png",
+      "voice": "https://bunker.economicusgame.com/assets/assets/audio/ru/15.mp3"
+    },
+    {
+      "id": 17,
+      "name": "Котапокалипсис",
+      "picture": "https://bunker.economicusgame.com/assets/assets/card/ru/16.png",
+      "voice": "https://bunker.economicusgame.com/assets/assets/audio/ru/16.mp3"
+    },
+    {
+      "id": 18,
+      "name": "Инопланетяне",
+      "picture": "https://bunker.economicusgame.com/assets/assets/card/ru/17.png",
+      "voice": "https://bunker.economicusgame.com/assets/assets/audio/ru/17.mp3"
+    },
+    {
+      "id": 19,
+      "name": "Духи и призраки",
+      "picture": "https://bunker.economicusgame.com/assets/assets/card/ru/18.png",
+      "voice": "https://bunker.economicusgame.com/assets/assets/audio/ru/18.mp3"
+    },
+    {
+      "id": 20,
+      "name": "Русский эпос",
+      "picture": "https://bunker.economicusgame.com/assets/assets/card/ru/19.png",
+      "voice": "https://bunker.economicusgame.com/assets/assets/audio/ru/19.mp3"
+    },
+    {
+      "id": 21,
+      "name": "Ктулху",
+      "picture": "https://bunker.economicusgame.com/assets/assets/card/ru/20.png",
+      "voice": "https://bunker.economicusgame.com/assets/assets/audio/ru/20.mp3"
+    }
+  ]
+  
